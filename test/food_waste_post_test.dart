@@ -21,6 +21,7 @@ void main(){
     expect(post.longitude, longitude);
   });
 
+  //test to check all fields get added to document
   test('All fields should get added to document', () {
     var document = [];
     final date = DateTime.now();
