@@ -1,16 +1,11 @@
 # wasteagram
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## Project Description
 
-This project is a starting point for a Flutter application.
+This project is a model of a mobile application for a coffee shop where employees can document food wasted at the end of the day.
+This is accomplished with "posts" containing photos taken of the items, the number of leftover items, the date the photo was taken,
+and the location of the device when the post was created. The application also displays a list of all previous posts that have been created. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To view a simulation of the application on an emulator, play the mp4 file located in the directory.  
